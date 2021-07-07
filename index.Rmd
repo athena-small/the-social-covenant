@@ -1,0 +1,15 @@
+--- 
+title: "The Social Covenant"
+author: "Peter Lupu and Arthur Small"
+date: "Draft version of `r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+# bibliography: [social-covenant.bib, book.bib]
+biblio-style: apalike
+link-citations: yes
+description: ""
+---
+
+# Foreward {-}
+
+

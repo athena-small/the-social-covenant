@@ -1,0 +1,9 @@
+book_filename: "the-social-covenant"
+rmd_files:
+ -   index.rmd
+ -   01-introduction.rmd
+ -   06-references.rmd
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
