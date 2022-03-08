@@ -4,9 +4,9 @@
   "platform": "4.1.2",
   "metadata": {
     "appmode": "rmd-static",
-    "primary_rmd": "index.Rmd",
+    "primary_rmd": "index.html",
     "primary_html": null,
-    "content_category": null,
+    "content_category": "site",
     "has_parameters": false
   },
   "packages": {
@@ -1018,70 +1018,67 @@
       "checksum": "41bdf416c326ebec889ebbf483b519c2"
     },
     "404.html": {
-      "checksum": "5ddc18039798e4884df6a5d69b2ef016"
+      "checksum": "28eb7ffe707c5131b07089489d8361e3"
     },
     "a-new-social-covenant-for-the-united-states-of-america.html": {
-      "checksum": "dfef3c83be2f64aec9f9fafb482cf607"
+      "checksum": "6616c11ba76c127c35b88c6b0a413670"
     },
     "applications.html": {
-      "checksum": "f1abb6255c69c6ba4742b5a4c2cdf2fe"
+      "checksum": "8a22383fb38c771634fd000af958d9c6"
     },
     "as-god-commands-divine-covenants-in-the-bible.html": {
-      "checksum": "fd5a8e87be2de19643049ef23452d916"
+      "checksum": "fd044bb68a60ed37101ad827f62afa4c"
     },
     "athens-and-jeruselum-social-covenants-in-the-greco-roman-world.html": {
-      "checksum": "34dfaf437419e2b6ae59acbdc431e70e"
+      "checksum": "860cbd3aab870479bf579f06e01c639c"
     },
     "autonomy-self-governance-and-flourishing.html": {
-      "checksum": "131425cb324f2d8ffa980879e6badd6d"
+      "checksum": "5296955020b0ca18bf9289d5cb761be6"
     },
     "axioms.html": {
-      "checksum": "edccd7e273ed5556288b578de1148b7a"
+      "checksum": "73e6c9ff10b1cdad0f1936e936152e8a"
     },
     "book.bib": {
       "checksum": "da9d9311a3433b995b206816a36a529d"
     },
     "conclusions.html": {
-      "checksum": "47311dcc834da889ea7b0c2b07209429"
+      "checksum": "df3b2e25a75396a981ee30d265ef30fa"
     },
     "critiques-of-the-enlightenment-concept-of-the-self.html": {
-      "checksum": "0dc779b0d4d52151219f67c812522e94"
+      "checksum": "24d92a3f106558df9492c28bea661d41"
     },
     "economics.html": {
-      "checksum": "fa4219780c3a3041a95b48af2d74757b"
+      "checksum": "7df0a4daaf33a5ce96e437926ec0e634"
     },
-    "filef9be61956012.html": {
-      "checksum": "193fef6b126334316a3f4064e26a67c1"
+    "filef9be43797ea3.html": {
+      "checksum": "f8e028cfd84103e65ab885c320a71679"
     },
-    "filef9be79b882e6.html": {
-      "checksum": "ba0c2e363a2ebaa1d620c039d271941a"
+    "filef9be7e0cd4d5.html": {
+      "checksum": "cbea583818b23c0821e8c6f7abbce436"
     },
     "final-words.html": {
-      "checksum": "1baf57967ce53fd4d4caf81bd39afb34"
+      "checksum": "f9bd673edaec809349fb4a4031b6acab"
     },
     "foreward.html": {
-      "checksum": "ee35e76d293b6f2b0788331f6e65bd8b"
-    },
-    "Icon\r": {
-      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+      "checksum": "7d6808b0a676c8819fea024a2f3883c5"
     },
     "implementation-in-education.html": {
-      "checksum": "5145355b80d3f2b8b54dc2654d8a39c3"
+      "checksum": "ea9982ba40107ec3cf6163e00328be29"
     },
     "implementation-in-law-legal-interpretaton.html": {
-      "checksum": "a20654f8cbd974f52283f9e05689f826"
+      "checksum": "078bd84b3bd1ffb12438a03207923402"
     },
     "implementation-in-media-communications-the-internet.html": {
-      "checksum": "8a10ddbb93d271f9cd1050ab91ae1d45"
+      "checksum": "9b389dc9fb320e20cee77486ebd978e5"
     },
     "implementation-in-the-constitution-constitutional-interpretation.html": {
-      "checksum": "78c4b9bdd629f5bf4b71671863f1670e"
+      "checksum": "0d3a0b4ca2cf2b4996e9b819773f6c4f"
     },
     "index.Rmd": {
       "checksum": "5baa9ff9426c431c1abf46bcc5921adc"
     },
     "intro.html": {
-      "checksum": "45640bb5ef6bf971b1f89df47cc243f5"
+      "checksum": "984d1eb3408ea845f56d5d99a37bd61f"
     },
     "libs/anchor-sections-1.0.1/anchor-sections-hash.css": {
       "checksum": "cc71c646c089ba898bbfdc599c3b08a1"
@@ -1162,13 +1159,13 @@
       "checksum": "6efc5d663aaacac2024153fa0d4bafcd"
     },
     "medieval-and-early-modern-covenants.html": {
-      "checksum": "7507d6be1d6d5e8acd1d9ebe53167e3b"
+      "checksum": "9b7f4976f4b154afdc79dd46ef55927b"
     },
     "methods.html": {
-      "checksum": "a314d2176b2eee77c419f550fd14b306"
+      "checksum": "06e2b0e15a14561c65b1e9cebf43fba0"
     },
     "morality-without-god.html": {
-      "checksum": "4026a77d0d91083f0932655caf85b7e1"
+      "checksum": "e9e4276c2d913d412d3ac036ed411ece"
     },
     "notes/2021-09-04-meeting-notes.txt": {
       "checksum": "3e0f5fa4788c3f158c0727dceb200d91"
@@ -1180,10 +1177,10 @@
       "checksum": "d41d8cd98f00b204e9800998ecf8427e"
     },
     "social-contracts-social-covenants-and-constitutions.html": {
-      "checksum": "a20db4f2fc118ac38d01956184c0233c"
+      "checksum": "d243adc1be790c72c90622ad5d7dffd5"
     },
     "social-covenant-social-contract-and-the-u.s.-constitution.html": {
-      "checksum": "2f6e8a49c27d07a178211116bf75d8db"
+      "checksum": "49be76ece5cfe06e576c4fc29373b751"
     },
     "social-covenant.Rmd": {
       "checksum": "303bf21fae1606759b967b86746a0eae"
@@ -1198,28 +1195,28 @@
       "checksum": "2714127167a10bdbfa7d1438d044a812"
     },
     "the-breakdown-of-the-enlightenment-project.html": {
-      "checksum": "d786cda98f1c82ec954a301fc6d7f068"
+      "checksum": "612830303243241f328070fc68cae3ac"
     },
     "the-conditions-that-support-flourishing.html": {
-      "checksum": "559a864c51cbbaf78a5cf9d8bccbbba2"
+      "checksum": "7148e7cfaec8e0857657139cb6193c1d"
     },
     "the-enlightenment-concept-of-the-social-contract.html": {
-      "checksum": "3980a7175f07181925703ea86aec025a"
+      "checksum": "4741f236f1d88d3c99a844e52fcad2c5"
     },
     "the-relationship-between-the-social-contract-and-the-social-covenant.html": {
-      "checksum": "d5a92621655b0fc15a586efc68b3be96"
+      "checksum": "6dccb9c5a21a9775c5497df0be6ea184"
     },
     "the-social-covenant-is-not-a-contract.html": {
-      "checksum": "9aebf1dce88da4aa5cc97bc8abebd2cf"
+      "checksum": "fc23e03f5cf53e8bda203a37b42d6fcd"
     },
     "the-social-covenant.bib": {
       "checksum": "2714127167a10bdbfa7d1438d044a812"
     },
     "values-aspirations-guiding-principles.html": {
-      "checksum": "784e8e48ad6b1e2a43fc85a9d9e35439"
+      "checksum": "8ec3e9afaf5ffbf54ecd8d70635fe056"
     },
     "whats-new-here.html": {
-      "checksum": "a141c68673ba578cf927284fdbcf2428"
+      "checksum": "28f277c1f66ed1cb06b31d557bc719ee"
     }
   },
   "users": null
