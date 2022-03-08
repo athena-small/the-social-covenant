@@ -1,0 +1,140 @@
+---
+title: 'The First Founding: The Colonial Period'
+author: "Arthur Small, Peter Lupu, Pinchas Ben-Or"
+date: "10/23/2021"
+output: html_document
+---
+
+## Puritans in Massachusetts
+
+An *explicit* crafting of a social covenant. Goal: to create a Christian, Protestant pure utopia.
+
+A "Dominionist paradise".
+
+An explicit covenant text and ceremony. A very conscious act to create a new social covenant. 
+
+Creating a covenant to promote human flourishing.
+
+Compared to J-town: more egalitarian, less hierarchical?? 
+
+Less money-focused.
+
+Q: How does the covenant they created relate to their laws and legal system?
+
+A theocracy w/o priests. Community leaders (white, male) also served as religious leaders, and legal leaders. Fusion of religious, legal, and political.
+
+Hierarchy: 
+
+Status of women. 
+
+## Jamestown
+
+Company town. Not nice.
+
+Institution of indentured servitude. Very similar to slavery (of the time), except temporary.
+
+Improved opportunities for the poor in England => greater demand for enslaved Africans.
+
+Bacon's Rebellion
+
+1705 Virginia Slave Codes: Synthesizes and formalizes a society based on legal racism as a foundation of a legal and social hierarchy.
+
+Legal racism was "invented" to support a hierarchically-organized society. Locally novel. (Need to investigate, a bit, the intellectual history of legal racism. What were the influences of the law-makers in Jamestown?)
+
+Still royal colonies.
+
+Created an early Modern society, but not an Enlightenment society.
+
+*The Racial Contract* relies on force for its enforcement, enabled by force. [OK iff legal positivism.]
+
+
+The flourishing of the whole presupposed the existence of a sub-class.
+
+
+## Discussion
+
+We see emerging two notions of the social covenant that will be in dialectic as America develops.
+
+
+Trickle-down economics : effect is to maintain the subclass.
+
+But the existence of the subclass implies instability. 
+
+
+Q: What is the trace of the Puritan model in the First Founding? What is the trace of the Jamestown model?
+
+* Background principles
+* Language
+* procedures
+
+
+
+"The Government of the United States of America is not, in any sense, founded on the Christian religion."
+
+--The Treaty of Tripoli
+
+It was ratified by the United States Senate unanimously on June 7, 1797, taking effect June 10, 1797, with the signature of President John Adams.
+
+
+Refs: H.C. Richardson; 1619 Project (NY Times); *The Racial Contract*
+
+## Core claims
+
+1. This period is a *pre-founding*
+
+2. [3-4 statements on each of the two traditions]
+
+Puritans gave us:
+
+* Central focus on *religion*
+  -- Model for social organization was derived from an interpretation of biblical values. Modeled on early Christian communities? All equal w.r.t. God. The *congregation* as the model of social organization. Equal participation; solidarity; mutual help: all organized through the congregation.
+  -- There was no conception of *value system outside of religion*.
+  -- Protestantism: "Playing basketball one-on-one with God." No privileged priesthood. All have same capability, e.g., to God, love, the Bible. Remove the authority of the Church as a mediator. 
+  
+  
+* Egalitarian element: economically, socially, (semi-) politically; "everyone has the same status in heaven"
+  -- Arthur Zelden, *Happiness*: Thought experiment: journalist who does field research in heaven. "If all your wishes are fulfilled, you are always happy, wouldn't it be boring?" Everyone is equal - equally happy.
+  -- W.r.t. the *care* that society gives to individuals, everyone should have their basic needs addressed.
+
+* Economic model: Small-hold independent farmers. Hard-working as a duty. Communal frontier economic model. Not strike-it-rich as an individual. The community is a necessary context for a religious life. *Flourishing* involves living in a religiously-oriented congregation and community that enables your pre-conditions for salvation. Not atomized; not hierarchical. 
+
+*Was* very focused on insider-vs-outsider.
+
+
+### Which aspects of puritan Colonial model show up throughout later history?
+
+* Egalitarianism.
+* Localism. 
+* Not a secular society. Allows freedom of religious worship. Allows state-level and local established churches.
+
+
+
+Q: Which model was more dominant - Jamestown or Puritan model?
+Pini: Jamestown.
+
+## Jamestown
+
+Individualism: 
+
+Hierarchy: 
+
+
+
+Racist:
+
+
+#### Slavish nature
+
+(Aristotle: "slavish nature" -- someone who lacks potential to develop their intellectual nor moral abilities, but only their physical abilities. But nobody who is currently a slave actually has a slavish nature! So did he really defend slavery, or did he criticize it w/o completely rejecting it?)
+
+Jewish bible: no one can be a permanent slave. All slaves must be freed every seven years. Slavery was therefore an economic contract. So *indentured servitude* as an economic transaction.
+
+*Q:* When, where, by whom, and why did the racial justification for slavery get developed intellectually? How did the concept of *White* get invented?
+
+
+
+Goes back to antiquity.
+
+Slavery in Africa: African slaves in Arab/Muslim palaces, slave trade w/in Africa. 
+
+
