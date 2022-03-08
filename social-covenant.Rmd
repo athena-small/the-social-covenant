@@ -1,0 +1,85 @@
+---
+title: "A Social Covenant for the United States of America"
+author: "Arthur Small, Peter Lupu, Pinchas Ben-Or"
+date: "2/12/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+We the People of the United States, in Order to 
+  form a more perfect Union, 
+  establish Justice, 
+  insure domestic Tranquility, 
+  provide for the common defense, 
+  promote the general Welfare, 
+  and secure the Blessings of Liberty to ourselves and our Posterity, 
+do ordain and establish this Social Covenant for the United States of America.
+
+
+# Axioms
+
+"We hold these truths to be self-evident..."
+
+* All human beings have rights
+* These include life, liberty, and the pursuit of eudaimonia (~ happiness, flourishing, self-fulfillment)
+
+
+
+# Values, Aspirations, Guiding Principles
+
+
+
+# What's new here?
+
+What's genuinely new in our Covenant, that is at-best weak in existing arrangements?
+
+## The Role of the Covenant
+
+The Covenant is a regulative and guiding set of principles for the Social Contract, and for the implementation of the Contract.
+
+### Relation between the Social Covenant and the Social Contract, the Constitution
+
+
+
+## Affirmation of positive rights
+
+1. Rights are not merely implied through negative constraints, but affirmed explicitly.
+
+ * Core example: The right to vote; the right to effective, genuine political participation.
+
+2. Government charged with task of taking actions needed to assure these rights are realized in practice.
+
+
+
+
+## Dignity 
+
+*Dignity* -- individual human dignity -- is identified and highlighted as a central goal for society and a legitimate concern of government.
+
+* It is the right of all human beings to live in dignity.
+
+We identify a cluster of pre-conditions needed in order to make the make the promises of life, liberty, and eudaimonia *real*.
+Could also see these are pre-conditions needed to support a dignified life.
+
+These pre-conditions include:
+
+* Healthcare
+* Effective avenues for political participation
+* Respectful treatment in the workplace; attention to the dignity of work
+* Access to a minimum level of economic resources needed to meet basic needs including food, housing, and shelter
+* Bodily autonomy
+
+
+ 
+Respect for dignity is not merely implied through negative constraints on government action. It is explicitly affirmed as an inherent right, the sustaining of which is an affirmative responsibility of government.
+
+## Environment
+
+The government has an affirmative responsibility to maintain the health of the natural environment. [Need to clarify what "health" means here.]
+
+## Economy
+
+
