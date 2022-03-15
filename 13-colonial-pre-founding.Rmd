@@ -1,9 +1,4 @@
----
-title: 'The First Founding: The Colonial Period'
-author: "Arthur Small, Peter Lupu, Pinchas Ben-Or"
-date: "10/23/2021"
-output: html_document
----
+
 
 ## Puritans in Massachusetts
 
