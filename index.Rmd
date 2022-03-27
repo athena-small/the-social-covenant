@@ -1,6 +1,6 @@
 --- 
 title: "The Social Covenant"
-author: "Peter Lupu and Arthur Small"
+author: "Arthur Small and Peter Lupu"
 date: "Draft version of `r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::bs4_book
@@ -13,31 +13,8 @@ description: ""
 
 # Foreward {-}
 
-The peaceful transfer of power from one legitimately elected regime to another is non-negotiable hallmark of democracy. In the United States this tradition has been honored in an unbroken chain from the very first transfer, in 1797, when George Washington willingly stepped down to hand the reins of the presidency to his elected successor, John Adams.
-
-Until January 6, 2021, when, shockingly, the chain snapped.
-
-===
-
-[Fill out the paragraph below after reviewing first-hand reports about the events of Jan. 6.]
-
-* Assault insurrection Jan 6, 2021
-  - Graphical description. Bear spray. assault weapons. zip ties. 6 deaths, noose. after pelosi, aoc, ...
-  - Crouching on the floor. texting spouses. blockading the front door with guns...
-* Quote(s) from the four Capitol Police officers. Astonishment that the insurrection happened, and that there is no consensus description of what happened.
-
-===
-
-January 6, 2021, was a singular event. But it did not come out of the blue. It was shocking, but not surprising. Everything depends on whether we can unveil the antecedent conditions that enabled, and eventually made inevitable, this rupture. Everything depends on uncovering the correct understanding of what brought us to this point.
-
 We are living through a breakdown of American political civil society. Enflamed by fears of losing their traditional dominance, and ashamed of losing that dominance to coastal elites, brown people, and immigrants, one-third of the American people are jettisoning democracy and embracing fascism. 
 
 The forces that brought us to this crisis are not recent. They are deeply rooted in American history, and even our pre-history. Finding our way to a healthier America requires looking way back to the ideas and forces that brought us this sickness.
 
 This book is motivated by three questions. How did this happen? How did we get to this place? And perhaps most important: How do we get out of it?
-
-===
-
-A sneak preview of our conclusions is warranted. 
-
-We are living now through one of the most alarming periods in American history. There is much grounds for feeling pessimism. Yet we believe there is a way forward to a better America, founded on a new social covenant.
