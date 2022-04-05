@@ -8,7 +8,7 @@ On how we got here: Let us tell you a story...
 
 The Republic is in crisis.
 
-The foundations are ruptured. 
+The foundations are ruptured.
 
 Consensus is shattered.
 
@@ -20,15 +20,13 @@ We must climb the mountain of hope.
 
 Something must be done.
 
-A new social covenant must be forged. 
+A new social covenant must be forged.
 
 ## How Did We Get Here?
 
 [Alternative start: A particular scene]
 
 [Recall the scene of the confirmation hearings for Amy Conen Barrett. Trace out the *mistake* of textual originalism. The mistake follows from treating the Constitution as a "normal" legal contract. From there, introduce the distinction between a contract and a covenant. A *covenant* is what forms a nation and binds it together.]
-
-
 
 ## The Four Foundings
 
@@ -42,9 +40,9 @@ The social compact of the Second Founding broke in the 1850s, triggering the U.S
 
 ### The Third Founding: Reconstruction (1865-1870)
 
-The 2nd... was from slavery: the Emancipation Proclamation.  Led to the Second Founding, which worked partially. 
+The 2nd... was from slavery: the Emancipation Proclamation. Led to the Second Founding, which worked partially.
 
-This work is the third. This work is motivated as a Declaration of Independence from autocracy. 
+This work is the third. This work is motivated as a Declaration of Independence from autocracy.
 
 ### Backsliding (1876-1964)
 
@@ -58,64 +56,45 @@ This work is the third. This work is motivated as a Declaration of Independence 
 
 Each of the four foundings we addressed fundamental questions:
 
-* Who is a member of the society? 
-* What is the form of government?
-* What justifies the creation of government and the exercise of state power? 
-  - Distinguish: *overt* justification vs. "real" justification. 
-
-* What are the foundational values that the society is committed to, and that the government must honor?
-* Who has full political rights?
+-   Who is a member of the society?
+-   What is the form of government?
+-   What justifies the creation of government and the exercise of state power?
+    -   Distinguish: *overt* justification vs. "real" justification.
+-   What are the foundational values that the society is committed to, and that the government must honor?
+-   Who has full political rights?
 
 Each of the four foundings represents a change in the answers to these questions.
 
 First founding, colonial period:
 
-* Who has rights: White, propertied males.
-* Justification: 
-  - Overt: Divine right of the monarch.
-  - "Real": Self-interest
-    - Plato, *Republic*: Thracymachus: "might makes right", self-interest is the justification
+-   Who has rights: White, propertied males.
+-   Justification:
+    -   Overt: Divine right of the monarch.
+    -   "Real": Self-interest
+        -   Plato, *Republic*: Thracymachus: "might makes right", self-interest is the justification
 
-
-[Default dynamic: 
-
-* Nature abhors a power vacuum
-* Thus "might makes right" becomes the ipso facto modus operandi, the default justification
-
-To counter this dynamic, must have firm covenental values that provide an alternative justification for the control and exercise of power, including especially state power and the monopoly over (legitimate) exercise of violence.
-
-Any other justification, w/o the covenental values becomes merely rhetorical dressing for the raw attempt to gain power.
-
-This model is right in front of us right now in the USA 2021. The GQP is exactly this.
-
-**Claim: The abhorrent pursuit of power can *never* create a society that supports human flourishing.**
-
-]
+[Default dynamic: ]
 
 Democracy depends on what we do now. This work is intended as a map of what needs to be done.
 
 We need to make sure that this DoI, and subsequent refounding, works fully.
 
-This is a Declaration about how to organize ourselves with real, inclusive, genuine representative democracy, guided by the values that were already declared from the beginning. 
+This is a Declaration about how to organize ourselves with real, inclusive, genuine representative democracy, guided by the values that were already declared from the beginning.
 
-
-The Foreward presents the rationale for the 5th founding: hard-hitting, blunt, concise, clear, crisp, powerfully motivating the rationale and general structure for the 5th Founding. 
+The Foreward presents the rationale for the 5th founding: hard-hitting, blunt, concise, clear, crisp, powerfully motivating the rationale and general structure for the 5th Founding.
 
 Reaction we want: "I see the history; I see the current situation; I see the need; I see the goal."
 
 Elements that will contribute to this kind of a document must be clear, concise, punchy, rhythmically-stated.
 
-Culminating in the 4th Founding. 
+Culminating in the 4th Founding.
 
 For each founding:
 
-* What is involved;
-* What are the values;
+-   What is involved;
+-   What are the values;
 
 Need parallelism between the first three. Gives credence to the claim we advance that there is a need for the 4th Founding.
-
-
-
 
 What this project is, and why we undertake it.
 
@@ -123,14 +102,46 @@ What this project is, and why we undertake it.
 
 ## A central problem: confusion over our shared basic values
 
+## The concept of a *community*
+
+
+
+
 ## The concept of a *social covenant*
 
-A covenant:
+A covenant is an agreement that:
 
-* establishes (or re-establishes) a community;
-* defines who is a member of the community;
-* identifies what it is that binds the community together -- divine command, blood relations, shared allegiance to a sovereign power, voluntary association, ...
-* identifies the *terms* of association, the shared *values*, and some foundational laws that members of the community proclaim, accept, and agree to live by
+-   establishes (or re-establishes) a community;
+-   defines who is a member of the community;
+-   identifies what it is that binds the community together -- e.g., divine command, blood relations, shared allegiance to a sovereign power, voluntary association, ...
+-   identifies
+    -   the *terms* of association,
+    -   the shared *values*,
+    -   [Maybe] some foundational laws and/or social canons that members of the community proclaim, accept, and agree to live by
+
+(This is a definition based *outcomes*.)
+
+## Subcategories of covenants
+
+### Divine command; Dominionism
+
+### Strongman; Authoritarian
+
+### Tribal affiliation
+
+### Enlightenment covenant
+
+The EC, based on autonomy, is that the role of government is to create and maintain and enhance the conditions of autonomy so that humans can flourish.
+
+Assessment criteria for proposed laws, rules, etc.: Will this [X] enhance human flourishing as autonomous persons?
+
+### Comments and comparisons
+
+Non-enlightenment covenantal structures will tend to exclude autonomous expressions of life (e.g., gay marriages).
+
+Move to replace "autonomy" with "dignity"; then marry "dignity" to authority.
+
+*Autonomy* $\neq$ *satisfaction of desire.*
 
 
 
@@ -146,27 +157,23 @@ Periodic rituals reaffirm the commitment to the community.
 
 Always, *symbols* are used to stand for the community as a whole, and indicate membership in it. (Flags, patches, logos, ...)
 
-
-### The terms of the covenant are *incomplete* 
+### The terms of the covenant are *incomplete*
 
 The covenant states broad, general principles or values by which the community will live. These values are not stated with legal precision. The statement of principle does not cover all cases of application, and is not intended to.
 
 The covenant does not describe the process of governance. It does not state the number of members in representative political bodies, their powers, and the mechanisms of their selection and replacement. Rather, the covenant states objectives and constraints that governance processes must adhere to.
 
-
-
-##  The U.S. today: A contested covenant
+## The U.S. today: A contested covenant
 
 A central confusion in the U.S. today concerns the disputed terms of our unwritten social covenant, and confusion over the difference between our covenant and our Constitution.
 
-### The U.S. has a *de facto* social covenant 
+### The U.S. has a *de facto* social covenant
 
 The U.S. has a written social contract: the Constitution.
 
-The U.S. has an *unwritten* social covenant. In fact, more than one. 
+The U.S. has an *unwritten* social covenant. In fact, more than one.
 
-Our social covenant is spread over a few places: The Declaration of Independence. The Preamble to the Constitution. The Bill of Rights. The Pledge of Allegiance. 
-
+Our social covenant is spread over a few places: The Declaration of Independence. The Preamble to the Constitution. The Bill of Rights. The Pledge of Allegiance.
 
 ### The social convenant of the U.S. is *contested*
 
@@ -178,21 +185,18 @@ What are the rights and obligations of community members to one another?
 
 What role does religion and religious scripture hold in setting the terms of the covenant -- if any?
 
-
 ## The project we undertake in this book
 
-Our project in this book is to update social contract theory for the 21st Century and beyond. 
+Our project in this book is to update social contract theory for the 21st Century and beyond.
 
-We argue that before entering into a social contract, a community must first form its social covenant. 
+We argue that before entering into a social contract, a community must first form its social covenant.
 
-In Part I, we review concepts and examples of social covenants in scripture and in pre-modern history. These covenants typically involved divine sanction or divine command. 
+In Part I, we review concepts and examples of social covenants in scripture and in pre-modern history. These covenants typically involved divine sanction or divine command.
 
-In Part II, we review the concept of the *social contract*, and how it grew out of the philosophical environment of the Enlightenment. We also discuss how, where, and why the political project of the Enlightenment went wrong. (Did it?) Spoiler alert: the mistakes were to lose sight of the *sacred and spiritual* nature of the covenant, and to lose sight of *human flourishing* as the *only* appropriate objective for political arrangements. 
+In Part II, we review the concept of the *social contract*, and how it grew out of the philosophical environment of the Enlightenment. We also discuss how, where, and why the political project of the Enlightenment went wrong. (Did it?) Spoiler alert: the mistakes were to lose sight of the *sacred and spiritual* nature of the covenant, and to lose sight of *human flourishing* as the *only* appropriate objective for political arrangements.
 
-Starting in Part III, we examine deeply the philosophical foundations of the Enlightenment political project. We focus on the key concepts of *autonomy*, *self-governance*, *reason*, and *eudaemonia* a.k.a. *human flourishing*. 
+Starting in Part III, we examine deeply the philosophical foundations of the Enlightenment political project. We focus on the key concepts of *autonomy*, *self-governance*, *reason*, and *eudaemonia* a.k.a. *human flourishing*.
 
 Part IV discusses the political arrangements that underpin conditions that support human flourishing. It investigates how the social covenant relates to the social contract and to the constitution.
 
-In Part V, we propose a new social covenant for the United States. We offer proposed text, and describe the form of ritual ceremony in which it would be adopted, proclaimed, and affirmed. 
-
-
+In Part V, we propose a new social covenant for the United States. We offer proposed text, and describe the form of ritual ceremony in which it would be adopted, proclaimed, and affirmed.

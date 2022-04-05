@@ -4,8 +4,9 @@ author: "Arthur Small and Peter Lupu"
 date: "Draft version of `r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::bs4_book
+url: https://bookdown.org/arthursmalliii/the-social-covenant/
 documentclass: book
-# bibliography: [The_Social_Covenant.bib, book.bib]
+# bibliography: [social_covenant.bib, book.bib]
 biblio-style: apalike
 link-citations: yes
 description: ""
