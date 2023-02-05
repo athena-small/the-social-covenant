@@ -8,7 +8,7 @@ On how we got here: Let us tell you a story...
 
 The Republic is in crisis.
 
-The foundations are ruptured. 
+The foundations are ruptured.
 
 Consensus is shattered.
 
@@ -20,7 +20,7 @@ We must climb the mountain of hope.
 
 Something must be done.
 
-A new social covenant must be forged. 
+A new social covenant must be forged.
 
 ## How Did We Get Here?
 
@@ -30,54 +30,55 @@ A new social covenant must be forged.
 
 
 
-## The Four Foundings
+## The Foundings
 
-### The First Founding: The Colonial Period ()
+### The  Pre-Founding: The Colonial Period ()
 
-### The Second Founding: A New Nation (1776-1790s)
+### The Founding: A New Nation (1776-1790s)
 
 There was a Declaration of Independence from the Crown. Led to the Constitution, which worked.
 
-The social compact of the Second Founding broke in the 1850s, triggering the U.S. Civil War.
+The social compact of the Founding broke in the 1850s, triggering the U.S. Civil War.
 
-### The Third Founding: Reconstruction (1865-1870)
+### The Second Founding: Reconstruction (1865-1870)
 
-The 2nd... was from slavery: the Emancipation Proclamation.  Led to the Second Founding, which worked partially. 
+The 2nd... was from slavery: the Emancipation Proclamation.  Led to the Second Founding, which worked partially.
 
-This work is the third. This work is motivated as a Declaration of Independence from autocracy. 
+This work is the third. This work is motivated as a Declaration of Independence from autocracy.
 
 ### Backsliding (1876-1964)
 
-### The Fourth Founding: The Key Civil Rights Legislation (1964-1965)
+### The Third Founding: The Key Civil Rights Legislation (1964-1965)
 
 [We thus elevate the stakes.] We are in such a condition that this work is essentially a third DoI.
 
 [PL: I never read the Em Proc.] This Declaration must convey the same powerful message that are corresponding in their generality and power of their values to the same level of the first two DoIs.
 
-## The Need for a Fifth Founding, Based on a New Social Covenant
+## The Need for a Fourth Founding, Based on a New Social Covenant
 
-Each of the four foundings we addressed fundamental questions:
+Each of the foundings addresed fundamental questions:
 
-* Who is a member of the society? 
+* Who is a member of the society?
+* What justifies the creation of government and the exercise of state power?
+  - Distinguish: *overt* justification vs. "real" justification.
+
 * What is the form of government?
-* What justifies the creation of government and the exercise of state power? 
-  - Distinguish: *overt* justification vs. "real" justification. 
 
 * What are the foundational values that the society is committed to, and that the government must honor?
 * Who has full political rights?
 
-Each of the four foundings represents a change in the answers to these questions.
+Each of the foundings represents a change in the answers to these questions.
 
 First founding, colonial period:
 
 * Who has rights: White, propertied males.
-* Justification: 
+* Justification:
   - Overt: Divine right of the monarch.
   - "Real": Self-interest
     - Plato, *Republic*: Thracymachus: "might makes right", self-interest is the justification
 
 
-[Default dynamic: 
+[Default dynamic:
 
 * Nature abhors a power vacuum
 * Thus "might makes right" becomes the ipso facto modus operandi, the default justification
@@ -96,16 +97,16 @@ Democracy depends on what we do now. This work is intended as a map of what need
 
 We need to make sure that this DoI, and subsequent refounding, works fully.
 
-This is a Declaration about how to organize ourselves with real, inclusive, genuine representative democracy, guided by the values that were already declared from the beginning. 
+This is a Declaration about how to organize ourselves with real, inclusive, genuine representative democracy, guided by the values that were already declared from the beginning.
 
 
-The Foreward presents the rationale for the 5th founding: hard-hitting, blunt, concise, clear, crisp, powerfully motivating the rationale and general structure for the 5th Founding. 
+The Foreward presents the rationale for the 5th founding: hard-hitting, blunt, concise, clear, crisp, powerfully motivating the rationale and general structure for the 5th Founding.
 
 Reaction we want: "I see the history; I see the current situation; I see the need; I see the goal."
 
 Elements that will contribute to this kind of a document must be clear, concise, punchy, rhythmically-stated.
 
-Culminating in the 4th Founding. 
+Culminating in the 4th Founding.
 
 For each founding:
 
@@ -123,80 +124,28 @@ What this project is, and why we undertake it.
 
 ## A central problem: confusion over our shared basic values
 
-## The concept of a *social covenant*
-
-A covenant:
-
-* establishes (or re-establishes) a community;
-* defines who is a member of the community;
-* identifies what it is that binds the community together -- divine command, blood relations, shared allegiance to a sovereign power, voluntary association, ...
-* identifies the *terms* of association, the shared *values*, and some foundational laws that members of the community proclaim, accept, and agree to live by
 
 
-
-## The difference between a social covenant and a constitution
-
-### A constitution is a political document
-
-### A social covenant is both political and spiritual
-
-The adoption of a new social covenant is *always* ritualized, in a grand ceremony.
-
-Periodic rituals reaffirm the commitment to the community.
-
-Always, *symbols* are used to stand for the community as a whole, and indicate membership in it. (Flags, patches, logos, ...)
-
-
-### The terms of the covenant are *incomplete* 
-
-The covenant states broad, general principles or values by which the community will live. These values are not stated with legal precision. The statement of principle does not cover all cases of application, and is not intended to.
-
-The covenant does not describe the process of governance. It does not state the number of members in representative political bodies, their powers, and the mechanisms of their selection and replacement. Rather, the covenant states objectives and constraints that governance processes must adhere to.
-
-
-
-##  The U.S. today: A contested covenant
-
-A central confusion in the U.S. today concerns the disputed terms of our unwritten social covenant, and confusion over the difference between our covenant and our Constitution.
-
-### The U.S. has a *de facto* social covenant 
-
-The U.S. has a written social contract: the Constitution.
-
-The U.S. has an *unwritten* social covenant. In fact, more than one. 
-
-Our social covenant is spread over a few places: The Declaration of Independence. The Preamble to the Constitution. The Bill of Rights. The Pledge of Allegiance. 
-
-
-### The social convenant of the U.S. is *contested*
-
-Some basic terms of our social covenant have never been settled.
-
-Who is a full member of the community?
-
-What are the rights and obligations of community members to one another?
-
-What role does religion and religious scripture hold in setting the terms of the covenant -- if any?
 
 
 ## The project we undertake in this book
 
-Our project in this book is to update social contract theory for the 21st Century and beyond. 
+Our project in this book is to update social contract theory for the 21st Century and beyond.
 
-We argue that before entering into a social contract, a community must first form its social covenant. 
+We argue that before entering into a social contract, a community must first form its social covenant.
 
-In Part I, we review concepts and examples of social covenants in scripture and in pre-modern history. These covenants typically involved divine sanction or divine command. 
+In Part I, we review concepts and examples of social covenants in scripture and in pre-modern history. These covenants typically involved divine sanction or divine command.
 
-In Part II, we review the concept of the *social contract*, and how it grew out of the philosophical environment of the Enlightenment. We also discuss how, where, and why the political project of the Enlightenment went wrong. (Did it?) Spoiler alert: the mistakes were to lose sight of the *sacred and spiritual* nature of the covenant, and to lose sight of *human flourishing* as the *only* appropriate objective for political arrangements. 
+In Part II, we review the concept of the *social contract*, and how it grew out of the philosophical environment of the Enlightenment. We also discuss how, where, and why the political project of the Enlightenment went wrong. (Did it?) Spoiler alert: the mistakes were to lose sight of the *sacred and spiritual* nature of the covenant, and to lose sight of *human flourishing* as the *only* appropriate objective for political arrangements.
 
-Starting in Part III, we examine deeply the philosophical foundations of the Enlightenment political project. We focus on the key concepts of *autonomy*, *self-governance*, *reason*, and *eudaemonia* a.k.a. *human flourishing*. 
+Starting in Part III, we examine deeply the philosophical foundations of the Enlightenment political project. We focus on the key concepts of *autonomy*, *self-governance*, *reason*, and *eudaemonia* a.k.a. *human flourishing*.
 
 Part IV discusses the political arrangements that underpin conditions that support human flourishing. It investigates how the social covenant relates to the social contract and to the constitution.
 
-In Part V, we propose a new social covenant for the United States. We offer proposed text, and describe the form of ritual ceremony in which it would be adopted, proclaimed, and affirmed. 
+In Part V, we propose a new social covenant for the United States. We offer proposed text, and describe the form of ritual ceremony in which it would be adopted, proclaimed, and affirmed.
 
 
-# (PART) Social Covenants in Scripture and in History {-} 
+# (PART) Social Covenants in Scripture and in History {-}
 
 Part I provides an historical survey of social covenants, and an intellectual history of the concepts of social covenants, social contracts, and constitutions.
 
@@ -218,7 +167,7 @@ authority plus responsibility, and limitation on ownership.)
 
 ### The second creation story
 
-God blows the spirit into Adam. 
+God blows the spirit into Adam.
 The creation covenant: a shared spiritual essence.
 
 Provides to all humanity an equal spiritual basis. (Makes baptism
@@ -251,7 +200,7 @@ A covenant specifically with the Jewish people.
 
 ## Common features of divine covenants
 
-*The covenant creates a **new tribe, community, or nation**.* By participating in the covenant, a collection of individuals forms a new *tribe* - bound together with reciprocal ties of loyalty, responsibility, claims and obligations. 
+*The covenant creates a **new tribe, community, or nation**.* By participating in the covenant, a collection of individuals forms a new *tribe* - bound together with reciprocal ties of loyalty, responsibility, claims and obligations.
 
 *The **terms** of the covenant define the social compact for the new tribe.
 
@@ -280,7 +229,7 @@ Aristotle.
 
 # Medieval and Early Modern Covenants
 
-Continuing the historical survey after the Biblical period. 
+Continuing the historical survey after the Biblical period.
 
 These covenants invoke divine sanction and mission, but are organized by humans: prophets, kings, community leaders.
 
@@ -305,15 +254,15 @@ On landing in North America, the pilgrims adopt a new social covenant. They expl
 # (PART) The Enlightenment Project {-}
 
 
-# The Enlightenment Concept of *The Social Contract* 
+# The Enlightenment Concept of *The Social Contract*
 
 Was the social contract theory that emerged from Locke et al.: Was this
 originally meant to be a contract or a covenant? Was it mis-stated?
 
 Rousseau maybe was closer. Concept of "the general will".
 
-Is there such a thing as "a spirit of the people"? 
-Are "the people" anything more than a collection of individuals engaged in mutually advantageous transactions? 
+Is there such a thing as "a spirit of the people"?
+Are "the people" anything more than a collection of individuals engaged in mutually advantageous transactions?
 Under what conditions would you sacrifice for the greater good of your people?
 
 
@@ -327,7 +276,7 @@ The French Revolution leads to the Reign of Terror, leads to Napoleon.
 
 Marx. Materialism. The disasterous experiments of state authoritarian socialism. Soviet, Chinese, etc.
 
-This history requires analysis: how did the Enlightenment promise of governance through human reason lead to such humanity-crushing disaster? 
+This history requires analysis: how did the Enlightenment promise of governance through human reason lead to such humanity-crushing disaster?
 
 What were the key errors?
 
@@ -335,21 +284,21 @@ What were the key errors?
 
 
 Contrast:
-JFK: "Ask what you can do for your country." 
+JFK: "Ask what you can do for your country."
 vs Reagan: "Are you better off now than you were four years ago?"
 
 The Republican program since at least 1980 has been a sustained assault on the very idea of community, of the common good.
 
-Claim: A social contract alone cannot bind a nation together. An enduring nation must be bound together by a social covenant. 
+Claim: A social contract alone cannot bind a nation together. An enduring nation must be bound together by a social covenant.
 
-And in a truly democratic nation, the terms of the social covenant must be developed collaboratively, not imposed from on high. 
+And in a truly democratic nation, the terms of the social covenant must be developed collaboratively, not imposed from on high.
 
 
 ## Black thought on the U.S. social covenant
 
 
 
-# (PART) The Enlightened Self {-} 
+# (PART) The Enlightened Self {-}
 
 Part III focuses on the individual human, prior to entering into a social covenant.
 
@@ -362,7 +311,7 @@ In the Enlightenment concept of the self, certain concepts are central:
 * Aristotle's concept of *eudaemonia*, translated as *human flourishing*.
 
 
-Epistemologically, the project adopts an *empirical* approach, based on observation of the senses. 
+Epistemologically, the project adopts an *empirical* approach, based on observation of the senses.
 
 Revealed truths, declarations based on religious scripture, claims grounded on clerical or political authority, received traditions -- these are not held to be sound bases for the discovery of knowledge about the self.
 
@@ -377,7 +326,7 @@ The Enlightenment applies recently-emerged *scientific method* to questions conc
 
 Rather, a being with autonomy is *self*-governing.
 
-A being that is governed entirely by its desires and appetites is not self-governing. 
+A being that is governed entirely by its desires and appetites is not self-governing.
 (Ref: Plato's *Republic*.)
 
 
@@ -388,7 +337,7 @@ A being that is governed entirely by its desires and appetites is not self-gover
 
 A translation of Aristotle's *eudaemonia*, human flourishing is the proper end of human life. It involves the realization of potential.
 
-*Eudaemodia* is *not* the same as "happiness", and certainly not the same as pleasure, or the satisfaction of desire. 
+*Eudaemodia* is *not* the same as "happiness", and certainly not the same as pleasure, or the satisfaction of desire.
 
 When Jefferson wrote of human's unalienable right to "the pursuit of happiness", *eudaemonia* is what he had in mind.
 
@@ -413,12 +362,12 @@ Esp. re: religion: "God commands X; therefore, X ought to be done."
 
 Must add the normative axiom: "God's commands ought to be followed."
 
-G.E. Moore: Introduced the *naturalistic fallacy*. 
+G.E. Moore: Introduced the *naturalistic fallacy*.
 Target: utilitarianism. Bentham et al.
 
 If you define "good" = "pleasure", then you assert: meaning of *good* = meaning of *pleasure*.
 
-Then it would make no sense to ask: 
+Then it would make no sense to ask:
 Q: "Is pleasure good?"
 
 But Q is an informative question.
@@ -428,20 +377,20 @@ Called the *open question argument*.
 
 Involves *paradox of analysis*: If you give an analysis, you  give meaning of things in terms of other terms.
 
-But if analysis is only matching conceptual identity, then analysis cannot generate new information. 
+But if analysis is only matching conceptual identity, then analysis cannot generate new information.
 
-Frege: "A = A" is not informative. "A = B" is informative. But 
+Frege: "A = A" is not informative. "A = B" is informative. But
 
 Leads to *sense-reference distinction*.
 
-Fundamental question: 
-Suppose we want to say that *flourishing is good*. 
+Fundamental question:
+Suppose we want to say that *flourishing is good*.
 Can we ask this question?
 
 Could the answer be "No"?
 Could we entertain circumstances under which human flourishing is *not* a good thing?
 
-Hypothesis: we cannot say this. 
+Hypothesis: we cannot say this.
 We cannot imagine *any* conditions under which this is false.
 
 Open Question Argument suggests: "pleasure = good" might be false.
@@ -452,29 +401,46 @@ Open Question Argument suggests: "pleasure = good" might be false.
 
 Key question: Why is it so difficult to imagine instances of flourishing that are not good?
 
-Look for specific instances: 
+Look for specific instances:
 
 When we see flourishing, why is it so hard to reject the assertion that this is good?
 
 
-## Divine Command Theory 
+## Divine Command Theory
+
+An intellectual exercise to pull morality back from the Enlightenment ideals -- the authority of reason -- back to a religious foundation.
+
+DCT: Self-interest becomes part of an authoritative hierarchical structure.
+
+Social contract theory based on self-interest inherits the authoritarian structure of self-interests.
+
+### "Huge compromises had to be made"
+
+* The degree to which the financial elite had a huge role in dictating fundamental policies. There was no way to devise the principles that govern the processes that determine policies, without them. They kept, and keep, tilting the balance in their favor.
+
+* Communism tried to uproot the financial people with a new elite.
+  - The problem is *control*, not *ownership*.
+  - How do you distribute the (rewards of) assets so that the rewards flow fairly?
+
+Unless we find a way to find a fair distribution of the wealth from these assets?
+
 
 ## The Problem of Moral Alienation
 
 If we affirm and follow moral laws solely because of commands (God's or anyone's), then we are not truly moral agents. We are a kind of animal.
 
-This problem is one for all systems that are based on a hierarchical authority, where authority relies essentially on self-interested conception of the self and application of rewards and punishments. 
+This problem is one for all systems that are based on a hierarchical authority, where authority relies essentially on self-interested conception of the self and application of rewards and punishments.
 
-It actually promotes a conception of the self as a self-interested being, a.k.a., *homo economicus*. 
+It actually promotes a conception of the self as a self-interested being, a.k.a., *homo economicus*.
 
-Beef w/ salvation-oriented (salvatic?) religions: it's ultimately based on self-interest. 
+Beef w/ salvation-oriented (salvatic?) religions: it's ultimately based on self-interest.
 
 # Economics
 
 
 
 
-# (PART) Designing a Social Covenant on Enlightenment Principles {-} 
+# (PART) Designing a Social Covenant on Enlightenment Principles {-}
 
 
 # Social Contracts, Social Covenants, and Constitutions
@@ -544,7 +510,7 @@ We have been setting up flourishing
 
 
 
-# (PART) Together We Flourish {-} 
+# (PART) Together We Flourish {-}
 
 How to implement these principle in the US for the 21st Century.
 
